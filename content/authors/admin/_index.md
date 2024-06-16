@@ -131,12 +131,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Boso Jowo
     percent: 100
-  - name: Chinese
+  - name: Bahasa Indonesia
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: العربية
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -172,4 +174,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Abdur Rohman Muhammad, a dedicated Network and System Administrator at Universitas Brawijaya's Direktorat Teknologi dan Informasi. With years of hands-on experience in network management, system optimization, and information technology, I am passionate about leveraging cutting-edge technologies to enhance organizational efficiencies and security.  At Universitas Brawijaya, my role encompasses designing, implementing, and maintaining robust network infrastructures, ensuring the seamless operation of mission-critical systems. My expertise includes managing complex networks, troubleshooting system issues, and providing high-level IT support to both faculty and students. My goal is to contribute to the university's mission by ensuring that our technological framework is resilient, forward-thinking, and adaptive to the ever-evolving demands of higher education and research.  
+Feel free to explore my website to learn more about my professional journey, projects, and insights into the world of network
