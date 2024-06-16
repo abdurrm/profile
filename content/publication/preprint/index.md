@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Hanya sebuah foto di ruang publik"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Google Cloud
+- Gen AI
 
 featured: true
 

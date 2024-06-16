@@ -1,9 +1,9 @@
 ---
 # Display name
-title: abdurrm
+title: Abdur Rohman Muhammad
 
 # Name pronunciation (optional)
-name_pronunciation: abdurrohman
+name_pronunciation: abdurrm
 
 # Full name (for SEO)
 first_name: Abdur Rohman
@@ -42,37 +42,31 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abdurrm
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/abdurrm
+    url: https://scholar.google.com/citations?user=irRc8J8AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/abdurrm
 
 interests:
-  - IT Infrastructure
   - System Tracing
   - Artificial Intelligence
   - Programming
 
 education:
-  - area: Master of Eleectrical Engineering
+  - area: Master Electrical Engineering
     institution: Universitas Brawijaya
-    date_start: 2016-01-01
+    date_start: 2016-07-01
     date_end: 2019-12-31
     summary: |
-      Thesis on _WSNs_. Presented papers at IEEE conferences with the contributions being published in journals.
+      Major's in Informatics and Communication.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Electrical Engineering
     institution: Universitas Brawijaya
-    date_start: 2012-01-01
-    date_end: 2012-12-31
+    date_start: 2007-07-01
+    date_end: 2012-08-12
     summary: |
-      GPA: 3.2/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Major's in Computer Engineering
 work:
   - position: Pengelola Sistem dan Jaringan
     company_name: Universitas Brawijaya
@@ -81,20 +75,26 @@ work:
     date_start: 2011-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Dosen Praktisi
+      Past positions:
+      - Pengelola Data dan Informasi
+      - Fungsional Umum Tenaga Kependidikan
+  - position: Practitioner Lecturer
     company_name: STIA Malang
     company_url: ''
     company_logo: ''
-    date_start: 2023-01-01
+    date_start: 2023-07-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Subject:
+      - Computer Networking
+      - Algorithm and Programing
+  - position: Practitioner Lecturer
+    company_name: Universitas Mulawarman
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    summary: |
+      Subject:
+      - Computer Networking
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,14 +105,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Network
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: computer
+      - name: Wireless
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: radio
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -121,14 +121,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gamming
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: game
+      - name: Riding
         description: ''
         percent: 80
-        icon: camera
+        icon: bike
 
 languages:
   - name: Boso Jowo
@@ -145,31 +145,28 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Certified Network Defender
+    url: https://www.eccouncil.org/train-certify/certified-network-security-course/
+    date: '2023-10-01'
+    awarder: EC-Council
+    icon: ec-council
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      A Certified Network Defender can foster resiliency and continuity of operations during attacks along with protecting, detecting and responding to the threats on the network.
+  - title: RUCKUS Accredited SmartZone Administrator (RASZA)
+    url: https://www.ruckusnetworks.com/resources/training-and-certifications/
+    date: '2023-01-25'
+    awarder: commscope
+    icon: commscope
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      RUCKUS Accredited SmartZone Administrators (RASZA) have passed the online RASZA Accreditation Exam covering Wi-Fi fundamental concepts, and Wi-Fi solutions configuration and management using RUCKUS SmartZone controllers.
+  - title: 'MTA: Networking Fundamentals'
+    url: https://www.microsoft.com/en-us/learning/exam-98-366.aspx
+    certificate_url: https://www.credly.com/badges/7013b9f8-4039-4a75-b878-df3d087deb0e?trk=public_profile_see-credential
+    date: '2017-06-01'
+    awarder: credly
+    icon: credly
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Earners of the MTA: Networking Fundamentals certification have demonstrated knowledge of fundamental networking concepts. The MTA program provides an appropriate entry point to a future career in technology.
 ---
 
 ## About Me
