@@ -147,13 +147,15 @@ languages:
 awards:
   - title: Certified Network Defender
     url: https://www.eccouncil.org/train-certify/certified-network-security-course/
+    certificate_url: https://aspen.eccouncil.org/VerifyBadge?type=certification&a=7m91mR3nXrhNRTA6U0Gs22Br6LsnOmTwby8hKmDIjJ8=&trk=public_profile_see-credential
     date: '2023-10-01'
     awarder: EC-Council
-    icon: ec-council
+    icon: eccouncil
     summary: |
       A Certified Network Defender can foster resiliency and continuity of operations during attacks along with protecting, detecting and responding to the threats on the network.
   - title: RUCKUS Accredited SmartZone Administrator (RASZA)
     url: https://www.ruckusnetworks.com/resources/training-and-certifications/
+    certificate_url: https://certifications.commscope.com/72f68c46-d453-426c-8177-ccc449ee3b97?trk=public_profile_see-credential
     date: '2023-01-25'
     awarder: commscope
     icon: commscope
