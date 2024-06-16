@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Workshop Wireless Network
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -59,7 +59,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - workshop2
 ---
 
 {{% callout note %}}
