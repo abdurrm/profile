@@ -31,76 +31,65 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abdurrm@ub.ac.id'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/abdurrm
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/abdurrm_wajak
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/abdurrm
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/abdurrm
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/abdurrm
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/abdurrm
 
 interests:
+  - IT Infrastructure
+  - System Tracing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programming
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Master of Eleectrical Engineering
+    institution: Universitas Brawijaya
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2019-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _WSNs_. Presented papers at IEEE conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Electrical Engineering
+    institution: Universitas Brawijaya
+    date_start: 2012-01-01
+    date_end: 2012-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.2/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Pengelola Sistem dan Jaringan
+    company_name: Universitas Brawijaya
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2011-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Dosen Praktisi
+    company_name: STIA Malang
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center

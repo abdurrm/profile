@@ -32,10 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Jobs'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Infrastructure team at UB.
+        I'm an IT enginner in the Infrastructure team at UB.
         
         Please reach out to collaborate 😃
     design:
