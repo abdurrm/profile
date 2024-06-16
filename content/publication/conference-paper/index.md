@@ -28,10 +28,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The environment stability is a critical factor of successful plantation. Porang (Amorphophallus muelleri Blume), as one of industrial plantation, requires good environment for good harvesting product. To maintain the stable environment, a good monitoring system on close range of area (microclimate) is essential. This paper presents the implementation of Wireless Sensor Network (WSN) based monitoring system for Po rang plantation. Communication between sensor node and sink node used LoRa, and the data transmission from sink node to the server utilized GPRS-GSM technology. The results of the implemented system have worked successfully and given the successful transmission rate of 94.07 %.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Environmental stability is vital for Porang (Amorphophallus muelleri Blume) plantations. This paper presents a Wireless Sensor Network (WSN) using LoRa and GPRS-GSM for monitoring microclimates. The system achieved a 94.07% successful transmission rate.
 
 tags:
   - Wireless Sensor Network

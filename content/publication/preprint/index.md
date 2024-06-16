@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As energy conservation in Wireless Sensor Networks is crucial, the scheduling methods are required to ensure that sensor nodes operate for a longer period. Duty cycle scheduling can be accomplished using synchronous, asynchronous, or on-demand methods with additional radio channels. This study has integrated the on-demand method with an asynchronous scheduling mechanism for the wake-up radio. Model simulation results with random placements showed that the Wake-up Asynchronous On-demand Radio Duty-Cycle (WAORDC) method was able to achieve the latency value of 3.3 seconds, better than the CXMAC asynchronous method, and the total energy required was approximately 4% only, to activate the sensor node.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Effective scheduling is crucial for energy conservation in Wireless Sensor Networks. This study combined on-demand and asynchronous scheduling for wake-up radios. The WAORDC method achieved a 3.3-second latency and used only 4% of the energy, outperforming the CXMAC method.
 
 tags:
 - Google Cloud
