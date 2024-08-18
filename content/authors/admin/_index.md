@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=irRc8J8AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/abdurrm
+    url: https://orcid.org/0009-0002-2592-3007
 
 interests:
   - System Tracing
