@@ -173,5 +173,5 @@ awards:
 
 ## About Me
 
-I am Abdur Rohman Muhammad, a dedicated Network and System Administrator at Universitas Brawijaya's Direktorat Teknologi dan Informasi. With years of hands-on experience in network management, system optimization, and information technology, I am passionate about leveraging cutting-edge technologies to enhance organizational efficiencies and security. 
+Hi, my name is Abdur Rohman Muhammad, a dedicated Network and System Administrator at Universitas Brawijaya's Direktorat Teknologi dan Informasi. With years of hands-on experience in network management, system optimization, and information technology, I am passionate about leveraging cutting-edge technologies to enhance organizational efficiencies and security. 
 Feel free to explore my website to learn more about my professional journey, projects, and insights into the world of network
