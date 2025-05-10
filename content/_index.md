@@ -35,7 +35,7 @@ sections:
       title: '📚 My Jobs'
       subtitle: ''
       text: |-
-        I'm an IT enginner in the Infrastructure team at UB.
+        I'm an IT enginner, currently working at Universitas Brawijaya.
         
         Please reach out to collaborate 😃
     design:
